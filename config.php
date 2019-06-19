@@ -16,7 +16,7 @@ $conn = mysql_connect("localhost","root","root")
 $databaseHost = 'localhost';
 $databaseName = 'nanditha';
 $databaseUsername = 'root';
-$databasePassword = 'erpnext';
+$databasePassword = 'shared@mysql';
 
 $mysqli = mysqli_connect($databaseHost, $databaseUsername, $databasePassword, $databaseName); 
  

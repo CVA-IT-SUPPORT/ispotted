@@ -26,7 +26,7 @@ define( 'DB_NAME', 'nanditha' );
 define( 'DB_USER', 'root' );
 
 /** MySQL database password */
-define( 'DB_PASSWORD', 'erpnext' );
+define( 'DB_PASSWORD', 'shared@mysql' );
 
 /** MySQL hostname */
 define( 'DB_HOST', 'localhost' );
